@@ -1,4 +1,4 @@
-package Strings.Regex;
+package Strings.Regex_Ip;
 
 import java.util.Scanner;
 
